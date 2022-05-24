@@ -20,12 +20,12 @@ based on initial conditions of the tank and the dispensed gasoline:
 ![x\_1](https://latex.codecogs.com/png.image?%5Cdpi%7B110%7D&space;%5Cbg_white&space;x_1
 "x_1") = tank temperature
 (![^\\circ](https://latex.codecogs.com/png.image?%5Cdpi%7B110%7D&space;%5Cbg_white&space;%5E%5Ccirc
-"^\\circ")F)
+"^\\circ") F)
 
 ![x\_2](https://latex.codecogs.com/png.image?%5Cdpi%7B110%7D&space;%5Cbg_white&space;x_2
 "x_2") = gasoline temperature
 (![^\\circ](https://latex.codecogs.com/png.image?%5Cdpi%7B110%7D&space;%5Cbg_white&space;%5E%5Ccirc
-"^\\circ")F)
+"^\\circ") F)
 
 ![x\_3](https://latex.codecogs.com/png.image?%5Cdpi%7B110%7D&space;%5Cbg_white&space;x_3
 "x_3") = vapor pressure in tank (psi)

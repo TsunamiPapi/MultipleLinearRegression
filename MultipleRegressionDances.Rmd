@@ -2,7 +2,7 @@
 title: "Multiple Linear Regression and Hypothesis testing"
 author: "Seren Dances"
 date: "5/24/2022"
-output: html_document
+output: rmarkdown::github_document
 ---
 The working Problem:
 
